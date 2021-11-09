@@ -1,0 +1,14 @@
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.exe
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.deps.json
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.runtimeconfig.json
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.runtimeconfig.dev.json
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.dll
+C:\Users\Batu\source\repos\Uygulama\Uygulama\bin\Debug\netcoreapp3.1\Uygulama.pdb
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.csproj.AssemblyReference.cache
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.AssemblyInfoInputs.cache
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.AssemblyInfo.cs
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.dll
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.pdb
+C:\Users\Batu\source\repos\Uygulama\Uygulama\obj\Debug\netcoreapp3.1\Uygulama.genruntimeconfig.cache

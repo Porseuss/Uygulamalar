@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7n7LXVfNONqnJkOJQ555ub04GbKZgZlPcheYsYeFkhZGHZdz5GB2uNC8ZXQ344d006kWyco2Kyk2NekNdnLxow==",
+  "dgSpecHash": "7TcgEvk0MKFLjqWfNmeaAt/JDGmAdai1BRCVhkb5xcrV2ww1agczRPwGG3XQmNGzcsJYUy1EWYL2HEmUHrnh+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Batu\\source\\repos\\Uygulama\\Uygulama\\Uygulama.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Batu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

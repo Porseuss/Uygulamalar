@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Uygulama
 {
-    class Program
+    internal class Program
     {
         public static int Karsilastir(char sayi1, int sayi2)
         {
@@ -16,9 +16,10 @@ namespace Uygulama
             {
                 Console.WriteLine("Sayılar Eşit!");
             }
+            
             return sayi2;
-
         }
+
         public static List<int> ListeKarsilastir(List<int> sayi1, List<int> sayi2)
         {
             if (sayi1.Count > sayi2.Count)
@@ -32,6 +33,7 @@ namespace Uygulama
 
             return sayi1;
         }
+
         public static List<int> ListeTopla(List<int> sayi1)
         {
             for (int i = 0; i < sayi1.Count; i++)
@@ -45,6 +47,7 @@ namespace Uygulama
             }
             return sayi1;
         }
+
         public static List<int> ListeAsal(List<int> sayi1)
         {
             for (int i = 2; i < sayi1.Count; i++)
@@ -57,7 +60,7 @@ namespace Uygulama
             return sayi1;
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             #region Uygulamalar
 
@@ -68,13 +71,14 @@ namespace Uygulama
             //1 Liste içerisinde ki asal sayıları ekrana yazdıran bir metod.
             //3 adet int tipte parametre alıp bu değerleri büyükten küçüğe doğru sıralayıp bir liste halinde geriye değer döndüren metod.
 
-            #region Yapımları
+            List<int> sayilar = new List<int>() { 81, 22, 53, 14 };
+            List<int> sayilar2 = new List<int>() { 51, 32, 3, 24, 75};
 
+            Console.WriteLine(ListeKarsilastir(sayilar, sayilar2));
+            Console.WriteLine(ListeTopla(sayilar));
+            Console.WriteLine(ListeAsal(sayilar));
 
-
-            #endregion
-            
-            #endregion
+            #endregion Uygulamalar
         }
     }
 }
